@@ -1,0 +1,5 @@
+-> PACOTE DO NODE
+	- package.json = Configurações e dados do teu pacote
+	- node_modules
+	- código autoral em js
+3_pacote_npm

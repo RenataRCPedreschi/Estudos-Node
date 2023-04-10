@@ -1,0 +1,6 @@
+Dados pc da Xuxa, 
+x64
+win32
+Major-PC
+Windows 10 Pro 
+ Windows_NT 

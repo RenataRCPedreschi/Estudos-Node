@@ -1,0 +1,21 @@
+{
+  "name": "4_pacote_exercicio",
+  "version": "1.0.0",
+  "description": "Pacote Cores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "executar": "node ./index.js",
+    "colors": "echo colors",
+    "start": "node ./index.js"
+  },
+  "keywords": [
+    "colors",
+    "node"
+  ],
+  "author": "Renata Rabelo",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
